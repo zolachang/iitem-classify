@@ -1,1 +1,1 @@
-select * from col_description()
+select * from col_description();
