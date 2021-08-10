@@ -1,1 +1,1 @@
-select * from AAA
+select * from col_description()

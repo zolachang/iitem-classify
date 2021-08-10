@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$USER_HOME$/DbProj/item-classify /DDL" />
     <content url="file://$USER_HOME$/DbProj/item-classify /procedure" />
+    <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
